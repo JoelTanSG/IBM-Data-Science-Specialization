@@ -6,13 +6,10 @@
 
 The program consists of 9 online courses that includes open source tools and libraries. It touches on, Python, databases, SQL, data visualisation, data analysis, statistical analysis, predictive modelling, and machine learning algorithms.
 
-<<<<<<< HEAD
-This repository consists of all the lab and projects done to acquire the IBM Data Science Professional Certificate.
+This repository consists of all the lab and projects done to acquire the IBM Data Science Professional Specialization.
 
 Please click on the individual badges to verify.
-=======
-This repository consists of all the lab and projects done to acquire the IBM Data Science Professional Certificate
->>>>>>> e5e875d7ab69706099973fa850883a678ae109db
+
 
 # Courses
 
@@ -46,11 +43,7 @@ In this course, the subjects are:
   </a>
 </p>
 
-<<<<<<< HEAD
 4. [Python for Data Science, AI & Development](https://github.com/JoelTanSG/IBM-Data-Science-Specialization/tree/main/Python%20for%20Data%20Science%2C%20AI%20%26%20Development)
-=======
-4. [Python for Data Science, AI & Development]()
->>>>>>> e5e875d7ab69706099973fa850883a678ae109db
 
 Learn Python fundamentals, including data structures and data analysis, complete hands-on exercises throughout the course modules.
 <p>
@@ -59,11 +52,8 @@ Learn Python fundamentals, including data structures and data analysis, complete
   </a>
 </p>
 
-<<<<<<< HEAD
+
 5. [Python Project for Data Science](https://github.com/JoelTanSG/IBM-Data-Science-Specialization/tree/main/Python%20Project%20for%20Data%20Science)
-=======
-5. [Python Project for Data Science]()
->>>>>>> e5e875d7ab69706099973fa850883a678ae109db
 
 This mini-course is intended to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where a simple dashboard using Python is developed.
 <p>
@@ -72,11 +62,8 @@ This mini-course is intended to demonstrate foundational Python skills for worki
   </a>
 </p>
 
-<<<<<<< HEAD
+
 6. [Databases and SQL for Data Science with Python](https://github.com/JoelTanSG/IBM-Data-Science-Specialization/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python)
-=======
-6. [Databases and SQL for Data Science with Python]()
->>>>>>> e5e875d7ab69706099973fa850883a678ae109db
 
 The purpose of this course is to introduce relational database concepts and help you learn and apply foundational knowledge of the SQL language. It is also intended to get you started with performing SQL access in a data science environment.  
 
@@ -95,17 +82,17 @@ The main goal of this Data Visualization with Python course is to teach you how 
     <img src="./images/data-visualization-with-python-badge.png" alt="Homepage" />
   </a>
 </p>
-<<<<<<< HEAD
 
-8. [Machine Learning with Python]()
+
+8. [Machine Learning with Python](https://github.com/JoelTanSG/IBM-Data-Science-Specialization/tree/main/Machine%20Learning%20with%20Python)
 
 This course dives into the basics of machine learning using an approachable, and well-known programming language, Python.
 In this course, we will be reviewing two main components:
 First, you will be learning about the purpose of Machine Learning and where it applies to the real world.
 Second, you will get a general overview of Machine Learning topics such as supervised vs unsupervised learning,  model evaluation, and Machine Learning algorithms.
 <p>
-  <a href="https://www.credly.com/badges/7ceb0c74-74d2-4cce-8722-9afa7273e9a2/public_url" title="badge authenticity">
-    <img src="./images/data-visualization-with-python-badge.png" alt="Homepage" />
+  <a href="https://www.credly.com/badges/0d3f4a48-cbfe-4b99-905d-59f3f4c04292/public_url" title="badge authenticity">
+    <img src="./images/machine-learning-with-python-badge.png" alt="Homepage" />
   </a>
 </p>
 
@@ -121,5 +108,3 @@ Therefore if you can accurately predict the likelihood of the first stage rocket
     <img src="./images/data-visualization-with-python-badge.png" alt="Homepage" />
   </a>
 </p>
-=======
->>>>>>> e5e875d7ab69706099973fa850883a678ae109db
