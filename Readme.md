@@ -1,6 +1,6 @@
 <p>
   <a href="https://www.coursera.org/professional-certificates/ibm-data-science" title="Redirect to IBM Professional Certificate Homepage">
-    <img src="./images/readme_banner.png" alt="Homepage" />
+    <img src="./Readme_images/readme_banner.png" alt="Homepage" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@ Please click on the individual badges to verify.
 This is an overview on the field of Data Science and there were no lab or project work done.
 <p>
   <a href="https://www.credly.com/badges/cdb05df8-e96f-4c46-a4e5-7c8ac078a2f7/public_url" title="badge authenticity">
-    <img src="./images/data-science-orientation-badge.png" alt="Homepage" />
+    <img src="./Readme_images/data-science-orientation-badge.png" alt="Homepage" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@ This is an overview on the field of Data Science and there were no lab or projec
 Touched on the different tools used Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio. The programming languages they can execute, their features and limitations.
 <p>
   <a href="https://www.credly.com/badges/bc54074d-5118-4c61-acbf-5814fc226e78/public_url" title="badge authenticity">
-    <img src="./images/tools-for-data-science-badge.png" alt="Homepage" />
+    <img src="./Readme_images/tools-for-data-science-badge.png" alt="Homepage" />
   </a>
 </p>
 
@@ -39,7 +39,7 @@ In this course, the subjects are:
     - How data scientists think!
 <p>
   <a href="https://www.credly.com/badges/4a24758b-76d8-4124-989b-dae97180c850/public_url" title="badge authenticity">
-    <img src="./images/data-science-methodology-badge.png" alt="Homepage" />
+    <img src="./Readme_images/data-science-methodology-badge.png" alt="Homepage" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@ In this course, the subjects are:
 Learn Python fundamentals, including data structures and data analysis, complete hands-on exercises throughout the course modules.
 <p>
   <a href="https://www.credly.com/badges/94dc6a2a-1642-436d-acfc-c14d520c75c3/public_url" title="badge authenticity">
-    <img src="./images/python-for-data-science-and-ai-badge.png" alt="Homepage" />
+    <img src="./Readme_images/python-for-data-science-and-ai-badge.png" alt="Homepage" />
   </a>
 </p>
 
@@ -58,7 +58,7 @@ Learn Python fundamentals, including data structures and data analysis, complete
 This mini-course is intended to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where a simple dashboard using Python is developed.
 <p>
   <a href="https://www.credly.com/badges/68e23f44-1260-459d-a447-15a43884b9ed/public_url" title="badge authenticity">
-    <img src="./images/python-project-for-data-science-badge.png" alt="Homepage" />
+    <img src="./Readme_images/python-project-for-data-science-badge.png" alt="Homepage" />
   </a>
 </p>
 
@@ -70,7 +70,7 @@ The purpose of this course is to introduce relational database concepts and help
 The emphasis in this course is on hands-on and practical learning . As such, you will work with real databases, real data science tools, and real-world datasets. You will create a database instance in the cloud. Through a series of hands-on labs you will practice building and running SQL queries. You will also learn how to access databases from Jupyter notebooks using SQL and Python.
 <p>
   <a href="https://www.credly.com/badges/bfde9146-983c-44c3-9542-e86b9c0d1be4/public_url" title="badge authenticity">
-    <img src="./images/databases-and-sql-for-data-science-badge.png" alt="Homepage" />
+    <img src="./Readme_images/databases-and-sql-for-data-science-badge.png" alt="Homepage" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ The emphasis in this course is on hands-on and practical learning . As such, you
 The main goal of this Data Visualization with Python course is to teach you how to take data that at first glance has little meaning and present that data in a form that makes sense to people. Various techniques have been developed for presenting data visually but in this course, we will be using several data visualization libraries in Python, namely Matplotlib, Seaborn, and Folium.
 <p>
   <a href="https://www.credly.com/badges/7ceb0c74-74d2-4cce-8722-9afa7273e9a2/public_url" title="badge authenticity">
-    <img src="./images/data-visualization-with-python-badge.png" alt="Homepage" />
+    <img src="./Readme_images/data-visualization-with-python-badge.png" alt="Homepage" />
   </a>
 </p>
 
@@ -92,7 +92,7 @@ First, you will be learning about the purpose of Machine Learning and where it a
 Second, you will get a general overview of Machine Learning topics such as supervised vs unsupervised learning,  model evaluation, and Machine Learning algorithms.
 <p>
   <a href="https://www.credly.com/badges/0d3f4a48-cbfe-4b99-905d-59f3f4c04292/public_url" title="badge authenticity">
-    <img src="./images/machine-learning-with-python-badge.png" alt="Homepage" />
+    <img src="./Readme_images/machine-learning-with-python-badge.png" alt="Homepage" />
   </a>
 </p>
 
@@ -105,6 +105,6 @@ You are tasked with predicting if the first stage of the SpaceX Falcon 9 rocket 
 Therefore if you can accurately predict the likelihood of the first stage rocket landing successfully, you can determine the cost of a launch. With the help of your Data Science findings and models, the competing startup you have been hired by can make more informed bids against SpaceX for a rocket launch.
 <p>
   <a href="https://www.credly.com/badges/7ceb0c74-74d2-4cce-8722-9afa7273e9a2/public_url" title="badge authenticity">
-    <img src="./images/data-visualization-with-python-badge.png" alt="Homepage" />
+    <img src="./Readme_images/data-visualization-with-python-badge.png" alt="Homepage" />
   </a>
 </p>
