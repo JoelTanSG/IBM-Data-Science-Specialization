@@ -104,7 +104,13 @@ You are tasked with predicting if the first stage of the SpaceX Falcon 9 rocket 
 
 Therefore if you can accurately predict the likelihood of the first stage rocket landing successfully, you can determine the cost of a launch. With the help of your Data Science findings and models, the competing startup you have been hired by can make more informed bids against SpaceX for a rocket launch.
 <p>
-  <a href="https://www.credly.com/badges/7ceb0c74-74d2-4cce-8722-9afa7273e9a2/public_url" title="badge authenticity">
-    <img src="./Readme_images/data-visualization-with-python-badge.png" alt="Homepage" />
+  <a href="https://www.credly.com/badges/24033217-566b-48e9-b944-77396b8de025/public_url" title="badge authenticity">
+    <img src="./Readme_images/applied-data-science-capstone-badge.png" alt="Homepage" />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.credly.com/badges/9f91867b-1021-4426-adc1-1739b64bce37/public_url" title="badge authenticity">
+    <img src="./Readme_images/data-science-professional-certificate.png" alt="Homepage" />
   </a>
 </p>
